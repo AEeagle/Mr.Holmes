@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# AUTHOR: Lucksi
+# AUTHOR: AE EAGLE EYES (G7C7673C CYBER GUARD OF UAE)
 # Copyright © 2021 Lucksi
 # License: GNU General Public License v3.0
 
